@@ -1,2 +1,2 @@
 # data-engineering
-This repository contains all project related to data enginnering
+This repository contain all projects related to data enginnering
